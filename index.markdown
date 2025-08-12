@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Title h1
-
 > Subtitle
 
 Some paragraph with text.
