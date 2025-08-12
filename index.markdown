@@ -2,4 +2,4 @@
 layout: home
 ---
 
-> My thought on various topics and things I learned from the *internets*.
+> My thoughts on are now on the *internets*!
