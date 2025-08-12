@@ -2,4 +2,4 @@
 layout: home
 ---
 
-> My thoughts on are now on the *internets*!
+> My thoughts are now on the *internets*!
