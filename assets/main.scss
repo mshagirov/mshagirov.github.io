@@ -1,0 +1,42 @@
+---
+---
+/* Override theme defaults */
+// $base-font-family: HelveticaNeu;
+// $brand-color: darkgray;
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Put any custom CSS here */
+* {
+  font-family: "JetBrains Mono", monospace;
+}
+.page-content {
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+}
+h1, h2, h3 {
+  font-weight: 800;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 20px;
+}
+h3, h4 {
+  font-size: 16px; 
+}
+a {
+  text-decoration: none;
+  color: #0014EE;
+}
+a:hover {
+  text-decoration: underline;
+}
+.site-footer * {
+  font-weight: 400;
+  font-size: 13px;
+}
