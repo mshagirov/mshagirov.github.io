@@ -1,12 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-> Subtitle
+## Home
 
-Some paragraph with text.
-
-Another paragraph.
+> My thought on various topics and things I learned from the *internets*.

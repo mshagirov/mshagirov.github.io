@@ -23,4 +23,4 @@ Linux and Python, and collaborating with other researchers on similar topics
 
 In my free time, I like long walks and learning about programming and web
 development, mainly using Python and Go, and planning to start using Ruby, and
-maybe Elixir (because who doesn't want to learn functional programming, right!?).
+maybe Elixir (because functional programming, right!?).
