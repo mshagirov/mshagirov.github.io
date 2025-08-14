@@ -2,4 +2,4 @@
 layout: home
 ---
 
-> My thoughts are now on the *internets*!
+<p class=introduction>My thoughts are now on the internets ...<span class="cursor"></span></p>
