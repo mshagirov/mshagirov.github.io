@@ -11,5 +11,4 @@ configuring my neovim, anything to do with Linux. I did my PhD in Mechanobiology
 developing models for inferring biological tissue forces from microscopy movies.
 
 In my free time, I like long walks and learning about programming and web
-development, mainly using Python and Go, and planning to start using Ruby, and
-maybe Elixir (because functional programming, right!?).
+development.
